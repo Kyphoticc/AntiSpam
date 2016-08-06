@@ -1,0 +1,13 @@
+###########################################
+# Countdown time in seconds
+time: 3
+
+# Spam message
+message: 'You can only chat every 3 seconds. Buying a rank disables this.'
+
+# No permission message
+noperm: 'You must be an Owner to do this'
+
+# Reload message
+mreload: '&aThis plugin as been reload!'
+
